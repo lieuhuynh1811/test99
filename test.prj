@@ -4,9 +4,11 @@
    <name>test</name>
    <tag></tag>
    <UUID>ffee176b-0ecb-4a31-be43-08bbbc3e3c77</UUID>
+   <createdVersion>9.3.1</createdVersion>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\lieu.huynh\Katalon Studio\HealthCareProject\test.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\lieu.huynh\OneDrive\Máy tính\test\test99\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
